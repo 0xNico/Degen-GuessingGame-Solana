@@ -6,7 +6,7 @@
 
  ## Cloning the project. 
 ```bash
-git clone https://github.com/0xNico/degen-guessinggame-solana.git
+git clone https://github.com/0xNico/Degen-GuessingGame-Solana.git
 ```
 ## Installing modules
 ```bash
