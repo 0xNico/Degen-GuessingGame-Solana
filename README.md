@@ -2,7 +2,7 @@
  Guessing game with ratio based leverage built on the Solana blockchain. Very simple CLI based currently working on Testnet/Devnet. Feel free to build a UI interface for this application requiring a nominal protocol fee. This example was built as part of a potential feature for 'Anons' of the [888 Anon Clubᵀᴹ](https://888anon.xyz/)
 
 ## 888 Ecosystem Bounty for Degen Game UI
- Active bounty for this program is 50 SOL. Roughly $5000 at time of writing 01/02/2022 - Please reach out to @0xnicoj on twitter or via the [Discord](https://discord.gg/888anon) to get started on this. The product must fully represent the Anons and their club ethos. 
+ Active bounty for this program is 27.5 SOL. Roughly $2750 at time of writing 01/02/2022 - Please reach out to @0xnicoj on twitter or via the [Discord](https://discord.gg/888anon) to get started on this. The product must fully represent the Anons and their club ethos. 
 
  ## Cloning the project. 
 ```bash
